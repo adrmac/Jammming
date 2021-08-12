@@ -12,3 +12,6 @@ The goal of this project is to work with:
 
 ## Launch
 The app is deployed via surge.sh at https://jammming-adrmac.surge.sh/
+
+## Sources
+This app was built from a tutorial in the Codecademy Front-End Engineering Career Path.
