@@ -6,6 +6,7 @@ The goal of this project is to work with:
 * Creating static class components with separation of concerns
 * Programming pattern: Stateless components from stateful components
 * Authenticating to the Spotify API and making API calls in the app
+* Implementing a new feature request
 
 ## Technologies
 * React 17.0.1
